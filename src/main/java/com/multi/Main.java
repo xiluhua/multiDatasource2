@@ -9,7 +9,7 @@ import com.alibaba.fastjson.JSON;
 import com.multi.dao.CustomerDao;
 import com.multi.entity.Customer;
 
-public class Main1 {
+public class Main {
 	
 	@SuppressWarnings("resource")
 	public static void main(String[] args)
